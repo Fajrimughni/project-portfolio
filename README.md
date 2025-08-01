@@ -1,7 +1,7 @@
 # Project Portfolio - Fajri Ilham Mughni
 
-**Deskripsi Singkat:**
-Dokumentasi historikal dan spasial dari beberapa proyek Multidisiplin yang dilaksanakan pada 2022-Sekarang. Proyek ini mencakup kumpulan peta, dokumen lapangan, arsip foto, serta metadata yang relevan dengan konteks geografis dan sejarah kawasan.
+**Deskripsi Singkat:**  
+Dokumentasi historikal dan spasial dari beberapa proyek multidisiplin yang dilaksanakan pada 2022–sekarang. Proyek ini mencakup kumpulan peta, dokumen lapangan, arsip foto, serta metadata yang relevan dengan konteks geografis dan sejarah kawasan.
 
 ---
 
@@ -20,6 +20,10 @@ Dokumentasi historikal dan spasial dari beberapa proyek Multidisiplin yang dilak
   Karena keterbatasan GitHub, file besar tersedia di Google Drive:
 
   🔗 [Akses Folder Google Drive](https://drive.google.com/drive/folders/1V8aFvsEjfxd30Ys0MHzfVACKO_TuJW8Q?usp=drive_link)
+
+- **📁 Data Science Portfolio**  
+  Submodul terpisah berisi proyek-proyek eksploratif di bidang *data science*, seperti pemodelan resep makanan Indonesia, segmentasi spasial, analisis sosial, dan lain-lain.  
+  🔗 [Buka Data Science Portfolio](https://github.com/Fajrimughni/data-science-portfolio)
 
 ---
 
