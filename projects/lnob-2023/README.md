@@ -13,17 +13,6 @@ Kumpulan data dan wawancara dalam rangka dokumentasi implementasi prinsip Leave 
 
 ---
 
-## 📂 Struktur
-
-lnob-2023/
-├── metadata.csv
-├── ringkasan.xlsx
-├── preview/
-└── drive_links.md
-
-
----
-
 ## 🔗 Akses Data Lengkap
 
 [📁 Google Drive - LNOB 2023](https://drive.google.com/drive/folders/1mS7eQpt5LPXF21S6ihAAWGCuz8dfgFH3?usp=drive_link)

@@ -26,18 +26,6 @@ Kegiatan ini juga melibatkan pelatihan dan **workshop peningkatan kapasitas UMKM
 
 ---
 
-## 📂 Struktur Folder
-
-larantuka-2023/
-├── metadata.csv
-├── ringkasan.xlsx
-├── preview/ # Cuplikan visual
-│ └── thumb_anyaman.jpg
-├── drive_links.md
-└── README.md
-
----
-
 ## 🗂️ Catatan Tambahan
 
 Dokumen dan data diklasifikasikan dalam beberapa kategori:

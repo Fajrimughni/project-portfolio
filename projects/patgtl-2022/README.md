@@ -24,19 +24,6 @@ Proyek ini merupakan bagian dari kegiatan **Pengumpulan dan Pengelolaan Data Eva
 
 ---
 
-## 📂 Struktur Folder
-
-patgtl-2022/
-├── metadata.csv
-├── ringkasan.xlsx
-├── preview/ # Cuplikan peta kesesuaian
-│ └── peta_kesesuaian_lahan.jpg
-├── drive_links.md
-└── README.md
-
-
----
-
 ## 🔍 Pendekatan Metodologi
 
 Metode **SMCE** digunakan untuk menyusun layer penilaian spasial secara sistematis, dengan kriteria yang dibobot menggunakan **AHP** berdasarkan masukan ahli dan stakeholders lokal. Beberapa indikator yang digunakan:

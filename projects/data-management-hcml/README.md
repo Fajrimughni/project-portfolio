@@ -13,16 +13,6 @@ Dokumentasi dan kurasi data historikal untuk proyek HUSKY-CNOOC MADURA LIMITED (
 
 ---
 
-## 📂 Struktur
-
-data-management-hcml/
-├── metadata.csv
-├── ringkasan.xlsx
-├── preview/
-└── drive_links.md
-
----
-
 ## 📬 Kontak
 
 Fajri Ilham Mughni  

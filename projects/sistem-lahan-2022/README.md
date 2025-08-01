@@ -23,20 +23,6 @@ Proyek ini merupakan bagian dari inisiatif **Badan Informasi Geospasial (BIG)** 
 
 ---
 
-## 📂 Struktur Direktori
-
-sistem-lahan-2022/
-├── metadata.csv
-├── ringkasan.xlsx
-├── preview/
-│ ├── sistem-lahan-indonesia-timur.jpg
-│ └── sketsa-unit-lahan.png
-├── drive_links.md
-└── README.md
-
-
----
-
 ## 🔍 Pendekatan Interdisipliner
 
 Proyek ini melibatkan penggabungan berbagai keilmuan yang saling melengkapi:
