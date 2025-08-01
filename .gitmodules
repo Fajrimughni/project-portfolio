@@ -1,0 +1,3 @@
+[submodule "data-science-portfolio"]
+	path = data-science-portfolio
+	url = https://github.com/Fajrimughni/data-science-portfolio.git
