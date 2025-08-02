@@ -29,8 +29,8 @@ A historical and spatial documentation of several multidisciplinary projects con
 
 ## 🖼️ Visual Preview
 
-![Project Preview 1](https://drive.google.com/file/d/1oQey5fLvz5kgLvBjsZLoYsrSJpHrmlnz/view?usp=drive_link)
-![Project Preview 2](https://drive.google.com/file/d/1KwJKrpiQgUn0SI9_Lo373vek3lofKgJc/view?usp=drive_link)
+![Project Preview 1]("C:\Users\ASUS\project-portfolio\preview\Dokumentasi1.jpg")
+![Project Preview 2]("C:\Users\ASUS\project-portfolio\preview\Dokumentasi3.png")
 ![Documentation Preview](https://drive.google.com/file/d/1B4Z2OSVL8TtvEdRrZAnp90j-PTXtZt4E/view?usp=drive_link)
 
 _For more visuals, see the full [Preview Folder](https://drive.google.com/drive/folders/1RwzW-6nGB6aqnLpdcGjUPbqmYekdO0gw?usp=drive_link)_
