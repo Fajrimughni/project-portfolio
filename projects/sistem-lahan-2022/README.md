@@ -43,10 +43,10 @@ This project combines complementary scientific disciplines:
 
 ## 🖼️ Visual Preview
 
-![Database](https://drive.google.com/file/d/1a4xktLczTmD_TYEJZduBWHf_t-YERudc/view?usp=drive_link)
-![Map Preview](https://drive.google.com/file/d/1oQey5fLvz5kgLvBjsZLoYsrSJpHrmlnz/view?usp=drive_link)
-
-_For more visuals, see the full [Preview Folder](https://drive.google.com/drive/folders/1RwzW-6nGB6aqnLpdcGjUPbqmYekdO0gw?usp=drive_link)_
+<p align="center">
+  <img src="preview/Dokumentasi13.jpg" alt="Database" width="48%" style="margin-right:2%;">
+  <img src="preview/Dokumentasi12.jpg" alt="Map Preview" width="48%">
+</p>
 
 ---
 

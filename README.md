@@ -29,11 +29,17 @@ A historical and spatial documentation of several multidisciplinary projects con
 
 ## 🖼️ Visual Preview
 
-![Project Preview 1]("C:\Users\ASUS\project-portfolio\preview\Dokumentasi1.jpg")
-![Project Preview 2]("C:\Users\ASUS\project-portfolio\preview\Dokumentasi3.png")
-![Documentation Preview](https://drive.google.com/file/d/1B4Z2OSVL8TtvEdRrZAnp90j-PTXtZt4E/view?usp=drive_link)
+<p align="center">
+  <img src="preview/Dokumentasi1.jpg" alt="Project Preview 1" width="48%" style="margin: 10px;">
+  <img src="preview/Dokumentasi3.jpg" alt="Project Preview 2" width="48%" style="margin: 10px;">
+</p>
 
-_For more visuals, see the full [Preview Folder](https://drive.google.com/drive/folders/1RwzW-6nGB6aqnLpdcGjUPbqmYekdO0gw?usp=drive_link)_
+<p align="center">
+  <img src="preview/Dokumentasi11.jpg" alt="Documentation Preview 1" width="48%" style="margin: 10px;">
+  <img src="preview/Dokumentasi10.jpg" alt="Documentation Preview 2" width="48%" style="margin: 10px;">
+</p>
+
+_For more visuals, see the full [Preview Folder](./preview)_
 
 ---
 

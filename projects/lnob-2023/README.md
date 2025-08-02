@@ -15,10 +15,15 @@ This dataset and documentation were compiled as part of the 2023 implementation 
 
 ## 🖼️ Visual Preview
 
-![Project Preview](https://drive.google.com/file/d/1jP-10q3o8M6EhkXFLthF25FKXQw9DHvs/view?usp=drive_link)
-![Analytical Preview](https://drive.google.com/file/d/1Ix12qHBclbFJexZwqBpSNfMQCL0QV-j_/view?usp=drive_link)
+<p align="center">
+  <img src="preview/Dokumentasi6.jpg" width="600" alt="Project Preview" style="margin-bottom:20px;"><br><br>
 
-_For more visuals, see the full [Preview Folder](https://drive.google.com/drive/folders/1ug7UQ95y1KJDM3JXuO0eDg0Q-fpNn2j0?usp=drive_link)_
+  <img src="preview/Dokumentasi7.jpg" width="600" alt="Analytical Preview 1" style="margin-bottom:20px;"><br><br>
+
+  <img src="preview/Dokumentasi8.jpg" width="600" alt="Analytical Preview 2" style="margin-bottom:20px;"><br><br>
+
+  <img src="preview/Dokumentasi9.jpg" width="600" alt="Analytical Preview 3" style="margin-bottom:20px;">
+</p>
 
 ---
 

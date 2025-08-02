@@ -36,10 +36,10 @@ The **SMCE** method was used to systematically structure spatial assessment laye
 
 ## 🖼️ Visual Preview
 
-![Map Preview 1](https://drive.google.com/file/d/1tbXivhvDB8FLv6iZJhhQ6hHfoTY5Fhfu/view?usp=drive_link)
-![Map Preview 2](https://drive.google.com/file/d/1J-axRXsu6CMfsMLPGEHqhkjJkrOGpdwB/view?usp=drive_link)
-
-_For more visuals, see the full [Preview Folder](https://drive.google.com/drive/folders/1VNfpDo-7Xp7M4a8v7qUeJ8mf-tGrXVt6?usp=drive_link)_
+<p align="center">
+  <img src="preview/Dokumentasi10.jpg" alt="Map Preview 1" width="48%" style="margin-right:2%;">
+  <img src="preview/Dokumentasi11.jpg" alt="Map Preview 2" width="48%">
+</p>
 
 ---
 

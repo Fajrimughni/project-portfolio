@@ -16,11 +16,14 @@ Documentation and curation of historical data for the **HUSKY-CNOOC Madura Limit
 
 ## 🖼️ Visual Preview
 
-![Project Preview](https://drive.google.com/file/d/1KwJKrpiQgUn0SI9_Lo373vek3lofKgJc/view?usp=drive_link)
-![Documentaion Preview 1](https://drive.google.com/file/d/1otkZi8d45RnGmRDJBUmb3SmhranAByxu/view?usp=drive_link)
-![Documentaion Preview 2](https://drive.google.com/file/d/1B4Z2OSVL8TtvEdRrZAnp90j-PTXtZt4E/view?usp=drive_link)
+### 📌 Project Preview
+<img src="preview/Dokumentasi3.jpg" width="600" alt="Project Preview" style="margin-bottom: 20px;"/>
 
-_For more visuals, see the full [Preview Folder](https://drive.google.com/drive/folders/1fgSFISl4klblJjoGl6oh0HE6zquXekTa?usp=drive_link)_
+### 📑 Documentation Preview 1
+<img src="preview/Dokumentasi1.jpg" width="600" alt="Documentation Preview 1" style="margin-bottom: 20px;"/>
+
+### 📑 Documentation Preview 2
+<img src="preview/Dokumentasi2.jpg" width="600" alt="Documentation Preview 2" style="margin-bottom: 20px;"/>
 
 ---
 

@@ -41,10 +41,11 @@ This project is part of the **DESIGN ETHNOGRAPHY LABORATORY, FSRD ITB** initiati
 
 ## 🖼️ Visual Preview
 
-![Project Preview](https://drive.google.com/file/d/1OHd2cFVc3GAHN9L0X_luc8hnrbim_VPi/view?usp=drive_link)
-![Documentaion Preview](https://drive.google.com/file/d/12AS-aJQ_Co2pCYJi84xPHVK_3UrRS0Ok/view?usp=drive_link)
+### 📌 Project Preview
+<img src="preview/Dokumentasi5.jpg" width="600" alt="Project Preview" style="margin-bottom: 20px;"/>
 
-_For more visuals, see the full [Preview Folder](https://drive.google.com/drive/folders/1_G8LMurAhqixZrXAJvTNStOumWCbYFqb?usp=drive_link)_
+### 📑 Documentation Preview
+<img src="preview/Dokumentasi4.jpg" width="600" alt="Documentation Preview" style="margin-bottom: 20px;"/>
 
 ---
 
