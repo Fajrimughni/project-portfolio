@@ -182,19 +182,40 @@ def summarize_filetypes(df, filetype_column='FileType'):
     """
     summary = df[filetype_column].value_counts().reset_index()
     summary.columns = ['FileType', 'Count']
-    summary['Percentage'] = (summary['Count'] / summary['Count'].sum() * 100).round(2)
+    total = summary['Count'].sum()
+    summary['Percentage'] = (summary['Count'] / total * 100).round(2)
     return summary
 
-# 6. Visualisasi Pie Chart FileType
+# 6. Visualisasi Pie Chart FileType dengan legend di samping
 def plot_filetype_distribution(df_summary):
     """
-    Pie chart distribusi jenis file.
+    Menampilkan pie chart distribusi jenis file dengan legend di samping.
     """
-    colors = plt.cm.tab20.colors
-    plt.figure(figsize=(7, 7))
-    plt.pie(df_summary['Count'], labels=df_summary['FileType'], autopct='%1.1f%%', colors=colors)
-    plt.title('Distribusi Jenis File')
-    plt.axis('equal')
+    colors = plt.cm.tab20.colors  # gunakan palet warna tab20
+    fig, ax = plt.subplots(figsize=(8, 6))
+
+    wedges, _ = ax.pie(
+        df_summary['Count'],
+        labels=None,  # tidak menampilkan label di dalam pie
+        colors=colors[:len(df_summary)],
+        startangle=140
+    )
+
+    # Tambahkan legend di samping
+    labels = [
+        f"{ftype} ({pct}%)" for ftype, pct in zip(df_summary['FileType'], df_summary['Percentage'])
+    ]
+    ax.legend(
+        wedges,
+        labels,
+        title='File Type',
+        loc='center left',
+        bbox_to_anchor=(1, 0.5),
+        fontsize='small'
+    )
+
+    ax.set_title('Distribusi Jenis File')
+    plt.tight_layout()
     plt.show()
 
 # 7. Tampilkan file yang belum terklasifikasi
@@ -223,6 +244,8 @@ def refine_filetypes(df, ext_column='FileExt', filetype_column='FileType', filen
     updated_others = df[df[filetype_column] == 'other'].shape[0]
     print(f"\n✅ Jumlah file yang masih 'other': {updated_others}")
     return df
+
+# --- ANALISIS SIZE ---
 
 def classify_document_age(df, date_col='DateModified', prefix=''):
     """
