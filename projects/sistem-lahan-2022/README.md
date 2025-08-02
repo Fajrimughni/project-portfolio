@@ -1,62 +1,70 @@
-# 🌱 Sistem Lahan Indonesia Timur – BIG 2022
+# 🌱 Eastern Indonesia Land System – BIG 2022
 
-**Deskripsi Proyek:**
+**Project Description:**
 
-Proyek ini merupakan bagian dari inisiatif **Badan Informasi Geospasial (BIG)** pada tahun 2022 untuk **memutakhirkan data Sistem Lahan di wilayah Indonesia bagian Timur**. Kegiatan ini dilaksanakan dengan pendekatan **interdisiplin**, mencakup bidang **ilmu tanah, geografi, dan geologi**, guna menghasilkan data dasar spasial yang lebih akurat dan bermanfaat untuk perencanaan pembangunan berkelanjutan dan tata kelola sumber daya alam.
-
----
-
-## 🎯 Tujuan Kegiatan
-
-- Memperbarui dan melengkapi basis data sistem lahan yang mencakup satuan fisiografi, tanah, tutupan lahan, dan bentuklahan
-- Mengintegrasikan perspektif geospasial, geomorfologi, dan geologi regional
-- Menyediakan informasi lahan terintegrasi yang relevan untuk kebijakan nasional, terutama di kawasan Indonesia Timur
+This project is part of the **Geospatial Information Agency (BIG)** initiative in 2022 to **update the Land System data in Eastern Indonesia**. It was carried out through an **interdisciplinary approach**, involving **soil science, geography, and geology**, to produce more accurate and useful baseline spatial data for sustainable development planning and natural resource governance.
 
 ---
 
-## 📦 Konten Folder
+## 🎯 Project Objectives
 
-- **metadata.csv** – Daftar file shapefile (.shp), raster, dan dokumen analisis
-- **ringkasan.xlsx** – Penjelasan metode dan kategori sistem lahan
-- **preview/** – Cuplikan visual berupa thumbnail, sketsa unit lahan, atau peta gabungan
-- **drive_links.md** – Tautan ke data lengkap di cloud storage
-
----
-
-## 🔍 Pendekatan Interdisipliner
-
-Proyek ini melibatkan penggabungan berbagai keilmuan yang saling melengkapi:
-
-- **Ilmu Tanah** – Identifikasi jenis tanah, tekstur, dan klasifikasi agronomis
-- **Geografi Fisik** – Analisis tutupan lahan, morfologi, dan penggunaan lahan aktual
-- **Geologi** – Penyusunan satuan batuan, struktur geologi, serta bentuklahan asal
-- **Penginderaan Jauh & SIG** – Untuk integrasi data dan visualisasi spasial
+- Update and enrich the land system database, including physiographic units, soil types, land cover, and landforms  
+- Integrate geospatial, geomorphological, and regional geological perspectives  
+- Provide integrated land information relevant to national policy, especially for Eastern Indonesia
 
 ---
 
-## 🗺️ Output Utama
+## 📦 Folder Contents
 
-- Peta Sistem Lahan Terintegrasi untuk wilayah Indonesia Timur
-- Klasifikasi unit lahan berbasis fisiografi, geologi, dan tanah
-- Dataset shapefile yang siap digunakan untuk analisis lanjutan
+- **Summary of methods & evaluation results** – Description of methodology and land system classification  
+- **Visual previews** – Visual previews such as thumbnails, land unit sketches, or composite maps  
+- **Link to complete spatial dataset** – Links to complete data hosted in cloud storage
 
 ---
 
-## 🔗 Akses Data
+## 🔍 Interdisciplinary Approach
+
+This project combines complementary scientific disciplines:
+
+- **Soil Science** – Identification of soil types, textures, and agronomic classification  
+- **Physical Geography** – Analysis of land cover, morphology, and actual land use  
+- **Geology** – Compilation of rock units, geological structures, and origin-based landforms  
+- **Remote Sensing & GIS** – For spatial data integration and visualization
+
+---
+
+## 🗺️ Key Outputs
+
+- Integrated Land System Map for Eastern Indonesia  
+- Land unit classification based on physiography, geology, and soil  
+- Ready-to-use shapefile datasets for further analysis
+
+---
+
+## 🖼️ Visual Preview
+
+![Database](https://drive.google.com/file/d/1a4xktLczTmD_TYEJZduBWHf_t-YERudc/view?usp=drive_link)
+![Map Preview](https://drive.google.com/file/d/1oQey5fLvz5kgLvBjsZLoYsrSJpHrmlnz/view?usp=drive_link)
+
+_For more visuals, see the full [Preview Folder](https://drive.google.com/drive/folders/1RwzW-6nGB6aqnLpdcGjUPbqmYekdO0gw?usp=drive_link)_
+
+---
+
+## 🔗 Data Access
 
 📁 **Google Drive Folder**:  
-[🔗 Sistem Lahan 2022 – Indonesia Timur (BIG)](https://drive.google.com/drive/folders/1FCXgcI3dgGZazd6R0eDmzfIlUzwyM9qG?usp=drive_link)
+[🔗 Land System 2022 – Eastern Indonesia (BIG)](https://drive.google.com/drive/folders/1FCXgcI3dgGZazd6R0eDmzfIlUzwyM9qG?usp=drive_link)
 
 ---
 
-## 👥 Tim Pelaksana
+## 👥 Project Team
 
-- Dikerjakan oleh tim ahli dari berbagai disiplin: tanah, geografi, geologi
-- Kolaborasi dengan BIG dan pemerintah daerah sebagai pengguna akhir data
+- Conducted by experts from multiple disciplines: soil science, geography, geology  
+- In collaboration with BIG and local governments as end-users of the data
 
 ---
 
-## 📬 Kontak
+## 📬 Contact
 
 Fajri Ilham Mughni  
 📫 Fajriilhammughni@gmail.com

@@ -1,48 +1,54 @@
-# 🌾 Pemetaan Sosial & Solusi Budaya – Larantuka 2023
+# 🌾 Social Mapping & Cultural Solutions – Larantuka 2023
 
-**Deskripsi:**
+**Description:**  
+This documentation covers the social mapping and solution design activities conducted in Larantuka and surrounding areas in 2023. The project focused on exploring local potential and culturally grounded approaches to community livelihoods, with special emphasis on cultural products such as **lontar weaving**, as well as immersive methods like **safari canvassing** to design context-appropriate solutions.
 
-Dokumentasi kegiatan pemetaan sosial dan pemetaan solusi di wilayah Larantuka dan sekitarnya tahun 2023. Proyek ini fokus pada eksplorasi potensi lokal dan pendekatan berbasis budaya terhadap penghidupan masyarakat, dengan penekanan pada produk budaya seperti **anyaman lontar**, serta kegiatan **imersi dan safari canvass** untuk merancang solusi yang sesuai konteks.
-
-Kegiatan ini juga melibatkan pelatihan dan **workshop peningkatan kapasitas UMKM** setempat guna mendorong keberlanjutan ekonomi kreatif berbasis lokal.
-
----
-
-## 🎯 Tujuan Kegiatan
-
-- Mengidentifikasi kebutuhan dan aspirasi masyarakat melalui pemetaan sosial
-- Mendokumentasikan praktik budaya lokal seperti **anyaman lontar**
-- Menyusun solusi bersama (co-creation) melalui pendekatan **safari canvass** dan **imersi**
-- Mendorong pengembangan UMKM melalui pelatihan dan fasilitasi usaha mikro
+The initiative also included **capacity-building workshops for local MSMEs** to promote sustainable, locally driven creative economies.
 
 ---
 
-## 📦 Konten
+## 🎯 Objectives
 
-- **Metadata**: Daftar file audio, video, dokumen, dan visual (`metadata.csv`)
-- **Ringkasan kegiatan**: Deskripsi kegiatan, insight dari lapangan (`ringkasan.xlsx`)
-- **Preview visual**: Cuplikan dokumentasi (foto-foto, poster kegiatan)
-- **Link data lengkap**: File audio wawancara, dokumen hasil diskusi, laporan kegiatan
-
----
-
-## 🗂️ Catatan Tambahan
-
-Dokumen dan data diklasifikasikan dalam beberapa kategori:
-- **Imersi Sosial**: Wawancara dan observasi dari kegiatan tinggal bersama warga
-- **Produk Budaya**: Dokumentasi foto dan narasi tentang praktik anyaman lontar
-- **Safari Canvass**: Notulensi diskusi dan solusi yang disusun bersama warga
-- **Workshop UMKM**: Materi pelatihan, daftar peserta, dan hasil fasilitasi
+- Identify community needs and aspirations through social mapping  
+- Document local cultural practices such as **lontar weaving**  
+- Co-create context-based solutions using **safari canvass** and **immersion** approaches  
+- Support MSME development through training and micro-enterprise facilitation  
 
 ---
 
-## 👥 Tim Kegiatan
+## 📦 Contents
 
-Proyek ini merupakan bagian dari inisiatif DESIGN ETHNOGRAPHY LABORATORIUM FSRD ITB, didukung oleh partisipasi aktif masyarakat lokal dan fasilitator dari berbagai latar belakang.
+- **Solution Safari Canvass**: Co-creation notes and insights from field facilitation  
+- **Visual Preview**: Photo documentation and visual materials from field activities  
 
 ---
 
-## 📬 Kontak
+## 🗂️ Additional Notes
+
+Files and documentation are categorized into several themes:  
+- **Social Immersion**: Interviews and observations from community stay-in activities  
+- **Cultural Products**: Photo documentation and narratives on *lontar* weaving practices  
+- **Safari Canvass**: Discussion notes and co-designed solutions with communities  
+- **MSME Workshops**: Training materials, participant lists, and facilitation outputs  
+
+---
+
+## 👥 Project Team
+
+This project is part of the **DESIGN ETHNOGRAPHY LABORATORY, FSRD ITB** initiative, supported by active participation from local communities and facilitators from various backgrounds.
+
+---
+
+## 🖼️ Visual Preview
+
+![Project Preview](https://drive.google.com/file/d/1OHd2cFVc3GAHN9L0X_luc8hnrbim_VPi/view?usp=drive_link)
+![Documentaion Preview](https://drive.google.com/file/d/12AS-aJQ_Co2pCYJi84xPHVK_3UrRS0Ok/view?usp=drive_link)
+
+_For more visuals, see the full [Preview Folder](https://drive.google.com/drive/folders/1_G8LMurAhqixZrXAJvTNStOumWCbYFqb?usp=drive_link)_
+
+---
+
+## 📬 Contact
 
 Fajri Ilham Mughni  
 📫 Fajriilhammughni@gmail.com
