@@ -45,13 +45,12 @@ A pipeline for managing large-scale digital files, including:
 
 ## 📁 2. [Larantuka-2023](https://github.com/Fajrimughni/project-portfolio/tree/main/projects/larantuka-2023)
 
-Documentation of geological field observations and analysis in Larantuka, East Nusa Tenggara (NTT), including:
-- Spatial data of rock site locations
-- Daily field observation notes
-- Geological maps and site photos
+This documentation covers the social mapping and solution design activities conducted in Larantuka and surrounding areas in 2023. The project focused on exploring local potential and culturally grounded approaches to community livelihoods, with special emphasis on cultural products such as lontar weaving, as well as immersive methods like safari canvassing to design context-appropriate solutions.
 
-**Tools**: QGIS, GPS Logger, Adobe Illustrator  
-**Project Type**: Geological fieldwork
+The initiative also included capacity-building workshops for local MSMEs to promote sustainable, locally driven creative economies.
+
+**Tools**: Field observation, participatory mapping, community workshops  
+**Project Type**: Community-based social design & cultural mapping
 
 ---
 
@@ -69,21 +68,28 @@ A social-spatial research project related to *Leave No One Behind (LNOB)*. My ro
 
 ## 📁 4. [Patgtl-2022](https://github.com/Fajrimughni/project-portfolio/tree/main/projects/patgtl-2022)
 
-Geotechnical field practice (PATGTL) with ITB, including:
-- Slope stability analysis
-- Rock logging and mechanical testing
-- Mine slope design
+Part of the Data Collection and Management for the Evaluation of the Regional Spatial Plan (RTRW) of Kulon Progo Regency, this project emphasized land suitability analysis using:
+- Spatial Multi-Criteria Evaluation (SMCE)
+- Analytic Hierarchy Process (AHP)
+Objectives:
+- Collect thematic and spatial data for RTRW review
+- Assess land suitability for cultivation, conservation, and settlement
 
-**Tools**: RocScience, Surpac, Geoelectric surveys  
-**Project Type**: Academic geotechnical project
+Support technocratic revision of the regional spatial plan
+**Tools**: QGIS, AHP-SMCE toolkit, field surveys  
+**Project Type**: QGIS, AHP-SMCE toolkit, field surveys
 
 ---
 
 ## 📁 5. [Sistem Lahan-2022](https://github.com/Fajrimughni/project-portfolio/tree/main/projects/sistem-lahan-2022)
 
-Analysis of land systems in Indonesia from a political ecology perspective:
-- Literature study of Agrarian Law, concession systems, and tenure conflicts
-- Spatial visualization of concessions and forest areas
+**Description:**  
+This project is part of the **Geospatial Information Agency (BIG)** initiative in 2022 to **update the Land System data in Eastern Indonesia**. It was carried out through an **interdisciplinary approach**, involving **soil science, geography, and geology**, to produce more accurate and useful baseline spatial data for sustainable development planning and natural resource governance.
+
+The work also included critical analysis from an **ecological and land policy perspective**, focusing on:
+
+- Literature study of Agrarian Law, concession systems, and tenure conflicts  
+- Spatial visualization of forest areas, land cover, and land concessions  
 
 **Tools**: QGIS, Power BI, Python  
 **Project Type**: Land policy research & spatial visualization
