@@ -19,9 +19,9 @@ This dataset and documentation were compiled as part of the 2023 implementation 
 
 ![Dokumentasi 7](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi7.jpg)
 
-![Dokumentasi 8](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi8.jpg)
+![Dokumentasi 8](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi8.png)
 
-![Dokumentasi 9](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi9.jpg)
+![Dokumentasi 9](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi9.png)
 
 ---
 
