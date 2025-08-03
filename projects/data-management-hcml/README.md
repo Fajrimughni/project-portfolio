@@ -16,14 +16,13 @@ Documentation and curation of historical data for the **HUSKY-CNOOC Madura Limit
 
 ## 🖼️ Visual Preview
 
-### 📌 Project Preview
-<img src="preview/Dokumentasi3.jpg" width="600" alt="Project Preview" style="margin-bottom: 20px;"/>
+![Dokumentasi 3](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi3.jpg)
 
 ### 📑 Documentation Preview 1
-<img src="preview/Dokumentasi1.jpg" width="600" alt="Documentation Preview 1" style="margin-bottom: 20px;"/>
+![Dokumentasi 1](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi1.jpg)
 
 ### 📑 Documentation Preview 2
-<img src="preview/Dokumentasi2.jpg" width="600" alt="Documentation Preview 2" style="margin-bottom: 20px;"/>
+![Dokumentasi 2](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi2.jpg)
 
 ---
 

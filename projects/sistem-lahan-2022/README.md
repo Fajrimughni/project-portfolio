@@ -43,10 +43,9 @@ This project combines complementary scientific disciplines:
 
 ## 🖼️ Visual Preview
 
-<p align="center">
-  <img src="preview/Dokumentasi13.jpg" alt="Database" width="48%" style="margin-right:2%;">
-  <img src="preview/Dokumentasi12.jpg" alt="Map Preview" width="48%">
-</p>
+![Dokumentasi 13](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi10.jpg)
+
+![Dokumentasi 12](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi12.jpg)
 
 ---
 

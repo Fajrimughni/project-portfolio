@@ -15,15 +15,13 @@ This dataset and documentation were compiled as part of the 2023 implementation 
 
 ## 🖼️ Visual Preview
 
-<p align="center">
-  <img src="preview/Dokumentasi6.jpg" width="600" alt="Project Preview" style="margin-bottom:20px;"><br><br>
+![Dokumentasi 6](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi6.jpg)
 
-  <img src="preview/Dokumentasi7.jpg" width="600" alt="Analytical Preview 1" style="margin-bottom:20px;"><br><br>
+![Dokumentasi 7](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi7.jpg)
 
-  <img src="preview/Dokumentasi8.jpg" width="600" alt="Analytical Preview 2" style="margin-bottom:20px;"><br><br>
+![Dokumentasi 8](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi8.jpg)
 
-  <img src="preview/Dokumentasi9.jpg" width="600" alt="Analytical Preview 3" style="margin-bottom:20px;">
-</p>
+![Dokumentasi 9](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi9.jpg)
 
 ---
 

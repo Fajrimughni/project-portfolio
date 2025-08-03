@@ -41,11 +41,9 @@ This project is part of the **DESIGN ETHNOGRAPHY LABORATORY, FSRD ITB** initiati
 
 ## 🖼️ Visual Preview
 
-### 📌 Project Preview
-<img src="preview/Dokumentasi5.jpg" width="600" alt="Project Preview" style="margin-bottom: 20px;"/>
+![Dokumentasi 5](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi5.jpg)
 
-### 📑 Documentation Preview
-<img src="preview/Dokumentasi4.jpg" width="600" alt="Documentation Preview" style="margin-bottom: 20px;"/>
+![Dokumentasi 4](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi4.jpg)
 
 ---
 
