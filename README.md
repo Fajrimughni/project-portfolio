@@ -33,8 +33,6 @@ A historical and spatial documentation of several multidisciplinary projects con
 
 ![Dokumentasi 14](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi14.jpg)
 
-![Dokumentasi 1](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi1.jpg)
-
 ![Dokumentasi 10](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi10.png)
 
 ![Dokumentasi 11](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi11.png)
