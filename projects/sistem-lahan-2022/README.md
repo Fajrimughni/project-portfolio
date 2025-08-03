@@ -43,7 +43,7 @@ This project combines complementary scientific disciplines:
 
 ## 🖼️ Visual Preview
 
-![Dokumentasi 13](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi10.png)
+![Dokumentasi 13](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi13.png)
 
 ![Dokumentasi 12](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi12.png)
 
