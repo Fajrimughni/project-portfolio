@@ -110,8 +110,8 @@ Proyek ini bertujuan untuk mengelompokkan dan memindahkan file dari folder `Down
 
 ## 🖼️ Visual Preview
 
-![Dokumentasi](/project-portfolio/preview/Dokumentasi14.jpg)
-![Dokumentasi](/project-portfolio/preview/Dokumentasi15.jpg)
+![Dokumentasi 14](https://github.com/fajri/project-portfolio/blob/main/preview/Dokumentasi14.jpg?raw=true)
+![Dokumentasi 15](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi15.jpg)
 
 ---
 
