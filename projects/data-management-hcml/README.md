@@ -16,7 +16,7 @@ Documentation and curation of historical data for the **HUSKY-CNOOC Madura Limit
 
 ## 🖼️ Visual Preview
 
-![Dokumentasi 3](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi3.jpg)
+![Dokumentasi 3](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi3.png)
 
 ### 📑 Documentation Preview 1
 ![Dokumentasi 1](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi1.jpg)
