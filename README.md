@@ -29,15 +29,15 @@ A historical and spatial documentation of several multidisciplinary projects con
 
 ## 🖼️ Visual Preview
 
-<p align="center">
-  <img src="preview/Dokumentasi1.jpg" alt="Project Preview 1" width="48%" style="margin: 10px;">
-  <img src="preview/Dokumentasi3.jpg" alt="Project Preview 2" width="48%" style="margin: 10px;">
-</p>
+![Dokumentasi 3](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi3.png)
 
-<p align="center">
-  <img src="preview/Dokumentasi11.jpg" alt="Documentation Preview 1" width="48%" style="margin: 10px;">
-  <img src="preview/Dokumentasi10.jpg" alt="Documentation Preview 2" width="48%" style="margin: 10px;">
-</p>
+![Dokumentasi 14](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi14.jpg)
+
+![Dokumentasi 1](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi1.jpg)
+
+![Dokumentasi 10](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi10.png)
+
+![Dokumentasi 11](https://github.com/Fajrimughni/project-portfolio/blob/main/preview/Dokumentasi11.png)
 
 _For more visuals, see the full [Preview Folder](./preview)_
 
